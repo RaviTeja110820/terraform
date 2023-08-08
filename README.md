@@ -35,14 +35,17 @@ terraform.io
     * data block : query resource
 
 ## commands
+
 1. to install the provider, After we use the format command, we have to initialize our
 working directory to prepare it for what we need.
 The init command looks at your configuration files and
 determines which providers and modules it needs to pull down
 from the registry to allow your configuration to work properly
+
     ```console
     terraform init
     ```
+
 2. to validate the code for syntax error, Once we have initialized the directory, it’s good to run
 thevalidate command before you run plan or apply. Validation
 will catch syntax errors, version errors, and other issues. One thing
