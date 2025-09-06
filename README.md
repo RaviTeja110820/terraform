@@ -1,6 +1,10 @@
 # terraform
 
 terraform.io
+1. Hachicorp configuration Language(HCL)
+2. terraform came in 2014
+3. it is Infrastructure as a code
+4. it supports 4000+ 
 
 ## types
 
